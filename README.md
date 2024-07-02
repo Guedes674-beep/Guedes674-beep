@@ -1,6 +1,6 @@
 ## Olá 👋
 
-![.](https://tenor.com/pt-BR/view/lolol-gif-11444645168108307874)
+![](https://tenor.com/pt-BR/view/lolol-gif-11444645168108307874)
 **Guedes674-beep/Guedes674-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
